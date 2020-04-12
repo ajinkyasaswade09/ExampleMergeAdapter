@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TryMergeAdapter</string>
+    <string name="desc_contact_right_icon">icon</string>
+    <string name="retry">Retry</string>
+    <string name="welcome_to_aj_foods">Welcome to AJ Foods</string>
+    <string name="thank_you">Thank You! Visit Again</string>
+    <string name="header_image">header_image</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_by_five">5dp</dimen>
+    <dimen name="margin_by_twelve">12dp</dimen>
+    <dimen name="margin_by_ten">10dp</dimen>
+    <dimen name="text_size_by_twelve">12sp</dimen>
+    <dimen name="margin_by_four">4dp</dimen>
+    <dimen name="margin_by_eight">8dp</dimen>
+    <dimen name="margin_by_fourty_two">42dp</dimen>
+    <dimen name="text_size_twenty_two">22sp</dimen>
+    <dimen name="margin_two_hundred_fifty">250dp</dimen>
+</resources>
